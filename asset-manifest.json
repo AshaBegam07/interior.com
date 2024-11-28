@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b1ff8de.css",
+    "main.js": "/static/js/main.ff8b8672.js",
+    "static/media/Interior-Design-scaled.jpg": "/static/media/Interior-Design-scaled.0edf709ec5617511d70a.jpg",
+    "static/media/interior-1.jpg": "/static/media/interior-1.00ba80a0a5b9fad54e15.jpg",
+    "static/media/Rectangle 2.jpg": "/static/media/Rectangle 2.df640e6bd111e279e418.jpg",
+    "static/media/Rectangle 1.jpg": "/static/media/Rectangle 1.0aaa9e504777540bc7b6.jpg",
+    "static/media/Rectangle 3.jpg": "/static/media/Rectangle 3.350317442521b0e65ca2.jpg",
+    "static/media/Rectangle 4.jpg": "/static/media/Rectangle 4.e87f6775883375d46c5e.jpg",
+    "index.html": "/index.html",
+    "main.7b1ff8de.css.map": "/static/css/main.7b1ff8de.css.map",
+    "main.ff8b8672.js.map": "/static/js/main.ff8b8672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b1ff8de.css",
+    "static/js/main.ff8b8672.js"
+  ]
+}
